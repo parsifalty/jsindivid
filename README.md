@@ -41,3 +41,7 @@
  - CSS3 (Grid Layout): стилизация и адаптивность;
  - Модульность: разделение по файлам (HTML, CSS, JS);
  - Принципы читаемости кода: осмысленные имена, комментарии.
+
+ ## Github pages 
+
+ https://parsifalty.github.io/jsindivid/
